@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm working ⚒ as database developer since 2008 😱. At the year 2013 I met Microsoft SQL Server™ and since then continue mastering this technology.
 
 <!--
