@@ -1,4 +1,4 @@
-I'm working ⚒ as database developer since 2008 😱. At the year 2013 I met Microsoft SQL Server™ and since then continue mastering this technology.
+I'm working ⚒ as database engineer since 2008 😱. At the year 2013 I met Microsoft SQL Server™ and since then continue mastering this technology.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dkultasev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
