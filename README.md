@@ -1,19 +1,17 @@
-I'm working ⚒ as database engineer since 2008 😱. At the year 2013 I met Microsoft SQL Server™ and since then continue mastering this technology.
+# Dmitrij Kultasev
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dkultasev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+SQL Server engineer since 2008. I make databases fast and safe to change, and I run my work AI-first.
 
-<!--
-**dkultasev/dkultasev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SQL Server**
 
-Here are some ideas to get you started:
+- [sql-deploy-pipeline](https://github.com/dkultasev/sql-deploy-pipeline) — build-once, deploy-per-environment GitHub Actions for SDK-style SSDT projects, with a per-action deploy ledger
+- [SSDTPowerTemplate](https://github.com/dkultasev/SSDTPowerTemplate) — how I structure SSDT solutions: SDK-style projects, tSQLt, run-once scripts
+- Benchmarks: 16 reproducible SQL Server experiments, each in a disposable SQL Server 2025 container, every result re-run on bare metal. Write-ups at [dbm.lt/blog](https://www.dbm.lt/blog); harnesses available on request
+- Load lab: a .NET 8 multi-connection SQL Server load driver with client- and server-side measurement and a live dashboard (private)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AI and infrastructure**
 
+- Homelab on Proxmox, defined in Terraform + Ansible, with an LLM failover proxy over local GPUs, RAG over its own docs and a kanban-to-agent dispatcher, operated through Claude Code agents. Architecture write-up coming on [dbm.lt](https://www.dbm.lt)
+- [vs-code-snippet-generator](https://github.com/dkultasev/vs-code-snippet-generator) — VS Code extension, 37k installs
+
+Elsewhere: [dbm.lt](https://www.dbm.lt) · [Stack Overflow](https://stackoverflow.com/users/3095866/dmitrij-kultasev) · [LinkedIn](https://www.linkedin.com/in/dmitrij-kultasev/)
